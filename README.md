@@ -56,4 +56,6 @@ When reporting an issue, include your Illustrator version, steps to reproduce it
 
 Code review notes and remaining limitations are in [`REVIEW.md`](REVIEW.md). Recent changes added input validation, safer preview failure handling, and cleanup of temporary groups when grid creation fails. The script has not been tested directly in Adobe Illustrator.
 
-## AI disclosure: The script was generated with Google AI based on the repository owner’s instructions and reviewed by the owner.
+## AI disclosure
+
+The script was generated with Google AI based on the repository owner’s instructions and reviewed by the owner.
