@@ -1,10 +1,19 @@
 [README.md](https://github.com/user-attachments/files/34056852/README.md)
 
-# Object Distribution Table
+# Object Organizer for Illustrator
 
 An Adobe Illustrator ExtendScript that arranges selected objects in a grid on the active artboard. It includes a live preview, spacing and margin controls, cell numbering, checkerboard backgrounds, and optional logo color contrast settings.
 
 > **Status:** Initial version for review. Test on a copy of your document and save your Illustrator file before running the script.
+
+<img width="763" height="576" alt="Screenshot 2026-10-28 at 10 20 19 AM" src="https://github.com/user-attachments/assets/5fbeb0a9-4ef2-41a5-a723-a0981253b73f" />
+
+<img width="2000" height="2000" alt="Prewiew" src="https://github.com/user-attachments/assets/a2bae7db-b911-41c8-9916-f63fc9bdec76" />
+
+<img width="2000" height="2000" alt="Preview2" src="https://github.com/user-attachments/assets/48af069e-664a-4af6-8036-07b6d2c266d8" />
+
+<img width="2000" height="2000" alt="Preview3" src="https://github.com/user-attachments/assets/985c6b01-8d4b-48d1-98e0-8ae69731b148" />
+
 
 ## Requirements
 
@@ -14,7 +23,7 @@ An Adobe Illustrator ExtendScript that arranges selected objects in a grid on th
 ## How to use
 
 1. Select the objects to place in the grid.
-2. Run `Object distribution table.jsx` from **File > Scripts > Other Script…** (the menu name may vary by Illustrator version or language).
+2. Run `Object organizer.jsx` from **File > Scripts > Other Script…** (the menu name may vary by Illustrator version or language).
 3. Set the rows, columns, gutter, artboard margin, cell inset, numbering, and colors as needed.
 4. Review the preview. Choose **Cancel** to discard it, or **OK** to replace the selected source objects with the grid.
 
